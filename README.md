@@ -1,4 +1,4 @@
-# biom5350-git-intro
+# BIOM5350-git-intro
 
 Starter repository for the BIOM5350 git/GitHub in-class activity.
 
